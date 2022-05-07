@@ -4,7 +4,7 @@ import IMG1 from '../../assets/project1.png'
 import IMG2 from '../../assets/project2.png'
 import IMG3 from '../../assets/project3.png'
 import IMG4 from '../../assets/project4.png'
-import IMG5 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/project5.png'
 import IMG6 from '../../assets/portfolio6.jpg'
 
 const portfolio = () => {
@@ -33,7 +33,7 @@ const portfolio = () => {
           <h3>This is portfolio item title</h3>
           <div className="portfolio_item-CTA">
             <a href="https://github.com/Sudhanshu-0907/Todo-List-using-React-Frontend" className="btn" target="_blank">Github</a>
-            <a href="https://www.github.com" className="btn btn-primary" target="_blank">Live Demo</a>
+            <a href="#" className="btn btn-primary" >Live Demo</a>
           </div>
         </article>
         
@@ -44,7 +44,7 @@ const portfolio = () => {
           <h3>This is portfolio item title</h3>
           <div className="portfolio_item-CTA">
             <a href="https://github.com/Sudhanshu-0907/Keeper-App" className="btn" target="_blank">Github</a>
-            <a href="https://www.github.com" className="btn btn-primary" target="_blank">Live Demo</a>
+            <a href="#" className="btn btn-primary" >Live Demo</a>
           </div>
         </article>
         
@@ -57,11 +57,20 @@ const portfolio = () => {
           <h3>This is portfolio item title</h3>
           <div className="portfolio_item-CTA">
             <a href="https://github.com/Sudhanshu-0907/Secret-website" className="btn" target="_blank">Github</a>
-            <a href="https://www.github.com" className="btn btn-primary" target="_blank">Live Demo</a>
+            <a href="#" className="btn btn-primary" >Live Demo</a>
           </div>
         </article>
         
-        
+        <article className="portfolio_item">
+          <div className="portfolio_item-img">
+            <img src={IMG5} alt="" />
+          </div>
+          <h3>This is portfolio item title</h3>
+          <div className="portfolio_item-CTA">
+            <a href="https://github.com/Sudhanshu-0907/Sudhanshu_portfolio" className="btn" target="_blank">Github</a>
+            <a href="https://sudhanshu-0907.github.io/Sudhanshu_portfolio" target="_blank" className="btn btn-primary" >Live Demo</a>
+          </div>
+        </article>
         
       </div>
 
