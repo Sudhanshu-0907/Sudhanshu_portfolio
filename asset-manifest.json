@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Sudhanshu_portfolio/static/css/main.11611a40.css",
+    "main.js": "/Sudhanshu_portfolio/static/js/main.733faa3e.js",
+    "static/media/project5.png": "/Sudhanshu_portfolio/static/media/project5.b78ed21aad1f0cdb6552.png",
+    "static/media/portfolio6.jpg": "/Sudhanshu_portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/me_ful.jpg": "/Sudhanshu_portfolio/static/media/me_ful.8fffc8cfdf6d720dcc39.jpg",
+    "static/media/me_croped.png": "/Sudhanshu_portfolio/static/media/me_croped.d84d3090f42776b16ab3.png",
+    "static/media/project4.png": "/Sudhanshu_portfolio/static/media/project4.34db9ac0fdef9325277c.png",
+    "static/media/project3.png": "/Sudhanshu_portfolio/static/media/project3.e5adbe0efa1898eeebf7.png",
+    "static/media/cv.pdf": "/Sudhanshu_portfolio/static/media/cv.a05afd8bef5a1be15bbd.pdf",
+    "static/media/project2.png": "/Sudhanshu_portfolio/static/media/project2.116d299ed73240aa9e9b.png",
+    "static/media/project1.png": "/Sudhanshu_portfolio/static/media/project1.db4472e673e98130aa2f.png",
+    "index.html": "/Sudhanshu_portfolio/index.html",
+    "main.11611a40.css.map": "/Sudhanshu_portfolio/static/css/main.11611a40.css.map",
+    "main.733faa3e.js.map": "/Sudhanshu_portfolio/static/js/main.733faa3e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11611a40.css",
+    "static/js/main.733faa3e.js"
+  ]
+}
