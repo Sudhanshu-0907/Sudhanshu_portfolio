@@ -32,7 +32,7 @@ const portfolio = () => {
           </div>
           <h3>Todolist React</h3>
           <div className="portfolio_item-CTA">
-            <a href="https://github.com/Sudhanshu-0907/Todo-List-using-React-Frontend" className="btn" target="_blank">Github</a>
+            <a href="https://github.com/Sudhanshu-0907/TodoList-React" className="btn" target="_blank">Github</a>
             <a href="#" className="btn btn-primary" >Live Demo</a>
           </div>
         </article>
